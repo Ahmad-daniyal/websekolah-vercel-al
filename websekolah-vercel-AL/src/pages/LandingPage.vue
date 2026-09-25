@@ -90,6 +90,12 @@ const features = [
   padding: var(--spacing-lg);
   border-radius: var(--border-radius);
   background-color: var(--color-background);
+  color: #fff;
+  background-image: linear-gradient(
+    to right,
+    var(--color-primary),
+    var(--color-secondary)
+  );
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 

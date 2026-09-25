@@ -48,6 +48,7 @@ function addToCart() {
   border-radius: var(--border-radius);
   padding: var(--spacing-md);
   text-align: center;
+  padding: 10px;
 }
 
 .product-image {
