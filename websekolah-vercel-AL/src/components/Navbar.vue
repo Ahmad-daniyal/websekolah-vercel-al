@@ -34,6 +34,7 @@ import router from '@/router';
 
 }
 
+
 .navbar a {
   color: #fff;
   padding: 15px;
